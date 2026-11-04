@@ -38,9 +38,6 @@ quora-posts-app/
 └── README.md
 
 
-## Getting Started
-
-
 ## How It Works
 
 The application uses Express.js routes to handle post operations and EJS templates to display dynamic content.
